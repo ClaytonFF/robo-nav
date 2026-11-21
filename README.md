@@ -1,7 +1,7 @@
 ![GitHub License](https://img.shields.io/github/license/ClaytonFF/robo-nav)
 
 # Robô NAV
-Robô autonômo usando a plataforma Arduino que perceber o ambiente e se deslocar desviando dos obstábulos.
+NAV: Robô autônomo baseado em Arduino capaz de mapear o ambiente e desviar de obstáculos.
 ##Autor
 Clayton Ferreira Fernandes
 ## Simulador do projeto
